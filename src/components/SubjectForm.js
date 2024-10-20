@@ -19,7 +19,7 @@ function SubjectForm({ addSubject }) {
         <form onSubmit={handleSubmit}>
             <input
                 type="number"
-                placeholder="Grade"
+                placeholder="GradePoints"
                 value={grade}
                 onChange={(e) => setGrade(e.target.value)}
                 step="0.01"
@@ -28,7 +28,7 @@ function SubjectForm({ addSubject }) {
             />
             <input
                 type="number"
-                placeholder="Credits"
+                placeholder="Course Credit"
                 value={credits}
                 onChange={(e) => setCredits(e.target.value)}
                 min="1"
