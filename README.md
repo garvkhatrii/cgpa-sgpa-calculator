@@ -37,5 +37,9 @@ A simple and responsive CGPA/SGPA calculator built using React.
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+----
+<h3>Don't Want to Do HardWork.</h3>
+Just Click to See the Project : https://cgpa-sgpa-calculator.vercel.app/
+
 
 
